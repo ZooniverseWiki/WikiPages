@@ -1,3 +1,3 @@
-SyracuseUniversity
+Zooniverse Wiki
 ==================
-Here we could put Wiki information (projects being worked on, etc.)
+Welcome to the Zooniverse Wiki. To view the wiki, click on the "Wiki" tab on the right side of the screen.
